@@ -26,21 +26,21 @@ usage: cgrpt.exe -spp -res -scene -els -ka -ks -g
 # Showcase
 
 ## Scene 1
-| ![Scene 1 with fog](renderings\scene_1_no_media.png) | 
+| ![Scene 1 with fog](renderings/scene_1_no_media.png) | 
 |:--:| 
 | *cgrpt.exe 10000 800 0 1* |
 
-| ![Scene 1 with fog](renderings\scene_1_with_media.png) | 
+| ![Scene 1 with fog](renderings/scene_1_with_media.png) | 
 |:--:| 
 | *cgrpt.exe 10000 800 0 1 0.004 0.02 0.85* |
 
 ## Scene 2
-| ![Scene 2 without fog](renderings\scene_2_10000spp_no_media.png) | 
+| ![Scene 2 without fog](renderings/scene_2_10000spp_no_media.png) | 
 |:--:| 
 | *cgrpt.exe 10000 800 1 1* |
 
 
-| ![Scene 2 with fog](renderings\scene_2_10000spp_with_media.png) | 
+| ![Scene 2 with fog](renderings/scene_2_10000spp_with_media.png) | 
 |:--:| 
 | *cgrpt.exe 10000 800 1 1 0.01 0.05 0.9* |
 
